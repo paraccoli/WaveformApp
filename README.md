@@ -28,7 +28,7 @@ pip install pyqtgraph PyQt5 numpy
 ```
 
 ## 作成者
-- [xM1guel]()
+- [xM1guel](https://zenn.dev/miguel)
 
 ## その他のリソース
 - [PyQtGraph公式ドキュメント](https://www.pyqtgraph.org/)
