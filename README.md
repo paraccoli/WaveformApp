@@ -20,7 +20,7 @@
 ## インストール
 1. このリポジトリをクローンまたはダウンロードします
 ```
-git clone https://github.com/your_username/realtime-waveform-plotter.git
+git clone https://github.com/xM1guel/WaveformApp.git
 ```
 2. 必要なPythonライブラリをインストールします。
 ```
