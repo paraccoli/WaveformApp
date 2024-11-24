@@ -20,7 +20,7 @@
 ## インストール
 1. このリポジトリをクローンまたはダウンロードします
 ```
-git clone https://github.com/xM1guel/WaveformApp.git
+git clone https://github.com/paraccoli/WaveformApp.git
 ```
 2. 必要なPythonライブラリをインストールします。
 ```
